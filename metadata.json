@@ -1,0 +1,6 @@
+{
+  "name": "Viettel Cloud Server",
+  "description": "Bản sao chuẩn mẫu landing page Viettel Cloud Server sử dụng Bootstrap 5, font Roboto, màu chủ đạo #ee0033, xám và trắng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
